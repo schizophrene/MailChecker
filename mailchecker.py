@@ -1,5 +1,4 @@
 import requests
-import time as time
 from bs4 import BeautifulSoup
 
 print("""
